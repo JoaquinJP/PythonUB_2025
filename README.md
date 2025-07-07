@@ -8,23 +8,24 @@
 
 ### Día 1 - Introducción a Python
 * [Introducción](Clase_I_Python.ipynb)
-  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Clase_I_Python.ipynb)
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJP/PythonUB_2025/blob/main/Clase_I_Python.ipynb)
 
 * [Numpy](Numpy.ipynb)
-  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Numpy.ipynb)
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJP/PythonUB_2025/blob/main/Numpy.ipynb)
 
 ### Día 2 - Pandas y Visualización de Datos
 * [Pandas](Pandas.ipynb)
-  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Pandas.ipynb)
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJP/PythonUB_2025/blob/main/Pandas.ipynb)
 * [Ejemplo Pandas](Pandas_snippets.ipynb)
-  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Pandas_snippets.ipynb)
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJP/PythonUB_2025/blob/main/Pandas_snippets.ipynb)
 * [Visualización de datos](Visualizacion.ipynb)
-  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Visualizacion.ipynb)
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJP/PythonUB_2025/blob/main/Visualizacion.ipynb)
 * [Ejercicio](EjercicioPandasVisualizacion.ipynb)
-  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/EjercicioPandasVisualizacion.ipynb)
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJP/PythonUB_2025/blob/main/EjercicioPandasVisualizacion.ipynb)
 
 ### Día 3 - Aprendizaje no supervisado
-
+* [Aprendizaje No Supervisado]()
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJP/PythonUB_2025/blob/main/)
 
 ## Requerimientos
 Para ejecutar los notebooks en Google Colab, es necesario tener una cuenta de Google y una conexión a Internet. No se requiere la instalación de Python ni de ningún otro software adicional, ya que Colab proporciona una plataforma de Jupyter Notebook en línea.
