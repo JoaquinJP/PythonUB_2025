@@ -24,8 +24,8 @@
   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJP/PythonUB_2025/blob/main/EjercicioPandasVisualizacion.ipynb)
 
 ### Día 3 - Aprendizaje no supervisado
-* [Aprendizaje No Supervisado]()
-  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJP/PythonUB_2025/blob/main/)
+* [Aprendizaje No Supervisado](UnsupervisedLearning.ipynb)
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJP/PythonUB_2025/blob/main/UnsupervisedLearning.ipynb)
 
 ## Requerimientos
 Para ejecutar los notebooks en Google Colab, es necesario tener una cuenta de Google y una conexión a Internet. No se requiere la instalación de Python ni de ningún otro software adicional, ya que Colab proporciona una plataforma de Jupyter Notebook en línea.
